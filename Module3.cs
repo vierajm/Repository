@@ -10,7 +10,6 @@ public class Program
 		
 		Console.WriteLine(motorcycle.Speed);
 		
-		Console.ReadKey();
 	}
 }
 class Motorcycle
