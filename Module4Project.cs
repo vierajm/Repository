@@ -6,11 +6,12 @@ namespace Module4Program
     {
         static void Main(string[] args)
         {
-			 // Program notes:
-             // Ran program and tested various inputs
-             // Added Overflow Exception
-			 // Added more detailed error messages
-			 // Testing without try-catch blocks resulted in command termination of signal 6
+	 	// Program notes:
+             	// Ran program and tested various inputs
+             	// Added Overflow Exception
+		// Added more detailed error messages
+		// Testing without try-catch blocks resulted in command termination of signal 6
+		
              int x;
              int y;
              int result;
