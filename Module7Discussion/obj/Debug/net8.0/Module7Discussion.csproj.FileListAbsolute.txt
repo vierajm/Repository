@@ -1,0 +1,15 @@
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\bin\Debug\net8.0\Module7Discussion.exe
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\bin\Debug\net8.0\Module7Discussion.deps.json
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\bin\Debug\net8.0\Module7Discussion.runtimeconfig.json
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\bin\Debug\net8.0\Module7Discussion.dll
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\bin\Debug\net8.0\Module7Discussion.pdb
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\Module7Discussion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\Module7Discussion.AssemblyInfoInputs.cache
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\Module7Discussion.AssemblyInfo.cs
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\Module7Discussion.csproj.CoreCompileInputs.cache
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\Module7Discussion.sourcelink.json
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\Module7Discussion.dll
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\refint\Module7Discussion.dll
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\Module7Discussion.pdb
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\Module7Discussion.genruntimeconfig.cache
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Discussion\obj\Debug\net8.0\ref\Module7Discussion.dll
