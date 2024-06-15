@@ -5,19 +5,46 @@ class Program
 {
     static void Main()
     {
-        // Creating a student dictionary
-        Dictionary<int, List<string>> StudentDictionary = new Dictionary<int, List<string>>();
+        Dictionary<int, (string, string, string)> StudentDictionary = new Dictionary<int, (string, string, string)>();
 
-        StudentDictionary.Add(1198, new List<string> { "Williams", "Grace", "Biology" });
-        StudentDictionary.Add(1199, new List<string> { "Bennett", "Leslie", "Business Management" });
-        StudentDictionary.Add(1200, new List<string> { "Snowson", "Alex", "Communications" });
-        StudentDictionary.Add(1201, new List<string> { "Bernard", "John", "Communications" });
-        StudentDictionary.Add(1202, new List<string> { "Matos", "Shella", "Electrical Engineering" });
+        PopulateDictionary(StudentDictionary);
 
-        // 
+        //DisplayContents(StudentDictionary);
 
-        
-
-        
+        Console.WriteLine("Student Dictionary Dictionary:");
+        //DisplayContents(StudentDictionary);
     }
+
+    static void PopulateDictionary(Dictionary<int, (string, string, string)> StudentDictionary)
+    {
+        for (int x = 1; x <= 4; x++)
+        {
+            // Using switch statements to Populate the Dictionary.
+            switch (x)
+            {
+                case 1:
+                    StudentDictionary.Add(1197, ("Williams", "Grace", "Biology"));
+                    break;
+                case 2:
+                    StudentDictionary.Add(1196, ("Bennett", "Leslie", "Business Management"));
+                    break;
+                case 3:
+                    StudentDictionary.Add(1199, ("Snowson", "Alex", "Communications"));
+                    break;
+                case 4:
+                    StudentDictionary.Add(1198, ("Bernard", "John", "Communications"));
+                    break;
+            }
+        }
+    }
+
+
+    // To display contents of the dictionary.
+    //static void DisplayContents(Dictionary<int, (string Firstname, string Lastname, string Major)> StudentDictionary)
+    //{
+    //    foreach (KeyValuePair<string, int> kv in StudentDictionary)
+    //    {
+    //        Console.WriteLine(kv.Key + "; " + kv.Value);
+    //    }
+    //}
 }
