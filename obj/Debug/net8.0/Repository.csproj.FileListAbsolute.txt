@@ -1,0 +1,5 @@
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\obj\Debug\net8.0\Repository.sourcelink.json
