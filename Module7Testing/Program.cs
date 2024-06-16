@@ -59,6 +59,10 @@ namespace Module7Project
             }
 
             //To sort the keys in the dictionary.
+            //var sortedStudents = StudentDictionary.OrderBy(student => student.Value.LastName).ToList();
+
+            // Display the sorted dictionary
+           
             
         }
     }    
