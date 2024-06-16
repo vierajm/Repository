@@ -5,7 +5,7 @@ dotnet_diagnostic.CS8600.severity = silent
 [*.cs]
 
 # CS8600: Converting null literal or possible null value to non-nullable type.
-dotnet_diagnostic.CS8600.severity = suggestion
+dotnet_diagnostic.CS8600.severity = silent
 
 # IDE0210: Convert to top-level statements
 dotnet_diagnostic.IDE0210.severity = none
