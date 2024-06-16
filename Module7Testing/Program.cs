@@ -106,7 +106,7 @@ namespace Module7Project
                     case 4:
                         // Display current Student Directory
                         // Brought this code up from lower commented out section.
-                        // .Skip was used as part of a method by LINQ to make this new info the next index number.
+                        // Skip was used as part of a method by LINQ to make this new info the next index number.
                         Console.WriteLine("Current student directory:");
                         foreach (var student in StudentDictionary)
                         {
@@ -155,3 +155,6 @@ namespace Module7Project
     }
 }
 
+// TO DO: move all the code below into the proper switch case above
+// Case 2: edit a student's information
+// Case 6: Sort the keys in the dictionary.
