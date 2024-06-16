@@ -1,0 +1,15 @@
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\bin\Debug\net8.0\Module7Testing.exe
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\bin\Debug\net8.0\Module7Testing.deps.json
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\bin\Debug\net8.0\Module7Testing.runtimeconfig.json
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\bin\Debug\net8.0\Module7Testing.dll
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\bin\Debug\net8.0\Module7Testing.pdb
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\Module7Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\Module7Testing.AssemblyInfoInputs.cache
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\Module7Testing.AssemblyInfo.cs
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\Module7Testing.csproj.CoreCompileInputs.cache
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\Module7Testing.sourcelink.json
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\Module7Testing.dll
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\refint\Module7Testing.dll
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\Module7Testing.pdb
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\Module7Testing.genruntimeconfig.cache
+C:\Users\jv472\OneDrive\COLLEGE\PBSC\Summer 2024\Summer A - C# Programming - Scott Hammond\Repository\Module7Testing\obj\Debug\net8.0\ref\Module7Testing.dll
