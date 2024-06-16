@@ -25,6 +25,7 @@ namespace Module7Project
         // input controls for preventing the input of wrong data types
         static int GetInputInteger()
         {
+            //Get a integer value and warn the person if the put any thing in besides a number.
             int value = 0;
         startInput:
             Console.WriteLine("Enter Number:");
@@ -66,7 +67,7 @@ namespace Module7Project
                 Console.WriteLine(" 4) Display current students.");
                 Console.WriteLine(" 5) Add additional information to an existing student.");
                 Console.WriteLine(" 6) Sort students by their student number.");
-                Console.WriteLine(" 0) Done.");
+                Console.WriteLine(" 0) Exit.");
                 int choice = GetInputInteger();
 
                 switch (choice)
@@ -104,6 +105,9 @@ namespace Module7Project
 
                     case 4:
                         // Display current students
+                        // Display current Student Directory
+                        // Brought this code up from lower commented out section.
+                        // .Skip was used as part of a method by LINQ to make this new info the next index number.
                         Console.WriteLine("Current student directory:");
                         foreach (var student in StudentDictionary)
                         {
