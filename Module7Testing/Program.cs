@@ -104,7 +104,6 @@ namespace Module7Project
                         break;
 
                     case 4:
-                        // Display current students
                         // Display current Student Directory
                         // Brought this code up from lower commented out section.
                         // .Skip was used as part of a method by LINQ to make this new info the next index number.
