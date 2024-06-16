@@ -6,6 +6,22 @@ namespace Module7Project
 {
     class Program
     {
+        
+        // Our project creates a simple editable student directory.
+
+        // Directory Structure:
+        //     Key  : Student Number (integer)
+        //     Value: A list with this formatting -> Last Name(50 chars max), First Name(25 chars max), Major(50 chars max) 
+        
+        // What can be done to the Directory(dictionary)
+        //     1) Add new students.
+        //     2) Edit current students.
+        //     3) Remove students.
+        //     4) Display current students.
+        //     5) Append additional information to existing students.
+        //     6) Sort students by their student number.
+        //     0) Exit
+        
         // input controls for preventing the input of wrong data types
         static int GetInputInteger()
         {
